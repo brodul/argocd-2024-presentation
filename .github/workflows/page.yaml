@@ -41,7 +41,7 @@ jobs:
         run: |
           npm install --no-optional reveal-md
           mkdir _site
-          ./node_modules/.bin/reveal-md --static _site --static-dirs slides.md
+          ./node_modules/.bin/reveal-md --static _site --static-dirs img --absolute-url https://brodul.github.io/argocd-2024-presentation slides.md
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
