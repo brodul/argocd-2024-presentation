@@ -7,6 +7,8 @@ theme: night
 
 Andraz Brodnik
 
+![qr](./img/frame.png)
+
 ---
 
 ## What I do 😎
@@ -15,6 +17,8 @@ Andraz Brodnik
 - Declerative, Ephemeral, Immutable infrastructure
 - Menthorships and consulting
 - Podcast Ogrodje
+
+![qr](./img/frame.png)
 
 
 Notes:
@@ -25,15 +29,17 @@ Notes:
 
 ---
 
-
-
----
-
 <!-- .slide: data-background="./img/tf1.png" data-background-size="contain" -->
+
+![qr](./img/frame.png)
+
 
 ---
 
 <!-- .slide: data-background="./img/tf2.png" data-background-size="contain" -->
+
+![qr](./img/frame.png)
+
 
 ---
 
