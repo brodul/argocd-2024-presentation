@@ -40,6 +40,9 @@ Username is `admin` and the password can be found in `kubernetes.tf`
 
 Argo CLI is authorized `./argocd --help`
 
+The control repository used for this presentation is at:
+https://github.com/brodul/argocd-control-repo
+
 
 ### Cleanup
 

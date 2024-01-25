@@ -25,6 +25,18 @@ Notes:
 
 ---
 
+
+
+---
+
+<!-- .slide: data-background="./img/tf1.png" data-background-size="contain" -->
+
+---
+
+<!-- .slide: data-background="./img/tf2.png" data-background-size="contain" -->
+
+---
+
 # Kubernetes
 
 ---
